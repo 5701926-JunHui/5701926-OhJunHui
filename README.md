@@ -1,2 +1,2 @@
 # Max HEap Tree {Result Image}
-![.](5-maxheaptree./image.jpg)
+![.](5-maxheaptree/image.jpg)
