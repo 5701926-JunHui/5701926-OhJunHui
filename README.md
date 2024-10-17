@@ -1,2 +1,2 @@
-# Max HEap Tree {Result Image}
-![.](5-maxheaptree.jpg)
+# 6-sortbyheap {Result Image}
+![.](6-sortbyheap.jpg)
