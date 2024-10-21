@@ -48,7 +48,6 @@ void DFS(Graph* graph, int start, int target)
     int count = 0;
 
     stack[++top] = start;  // 시작 노드를 스택에 추가
-    printf("탐색 경로: ");
 
     // 스택이 빌 때까지 반복
     while (top != -1) 
