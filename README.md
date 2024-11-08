@@ -1,3 +1,5 @@
+# 9-primmst {Result Image}
+![.](9-primmst.jpg)
 # 8-findmst {Result Image}
 ![.](8-findmst.jpg)
 # 7-dfsbfs {Result Image}
