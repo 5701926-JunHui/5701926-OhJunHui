@@ -1,3 +1,5 @@
+# 14-quicksort {Result Image}
+![.](14-quicksort.jpg)
 # 13-mergesort {Result Image}
 ![.](13-mergesort.jpg)
 # 12-shellsort {Result Image}
