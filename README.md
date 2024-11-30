@@ -1,9 +1,9 @@
 # 16-interpolationSearch {설명}
-(![.](16-interpolationSearch.jpg))
+(![.](16-interpolationSearch.jpg)
 # 16-interpolationSearch {Result Image}
-(![.](16-interpolationSearch1st.jpg))
-(![.](16-interpolationSearch2nd.jpg))
-(![.](16-interpolationSearch3rd.jpg))
+(![.](16-interpolationSearch1st.jpg)
+(![.](16-interpolationSearch2nd.jpg)
+(![.](16-interpolationSearch3rd.jpg)
 # 15-compareSearches {성능 비교 설명}
 ![.](15-compareSearches.jpg)
 # 15-compareSearches {Result Image}
