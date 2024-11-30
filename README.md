@@ -1,3 +1,9 @@
+# 15-compareSearches {성능 비교 설명}
+![.](15-compareSearches.jpg)
+# 15-compareSearches {Result Image}
+![.](15-compareSearches1st.jpg)
+![.](15-compareSearches2nd.jpg)
+![.](15-compareSearches3rd.jpg)
 # 14-quicksort {성능 비교}
 ![.](14-quicksort..jpg)
 # 14-quicksort {Result Image}
