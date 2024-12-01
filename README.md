@@ -1,3 +1,5 @@
+# 16-interpolationSearch {설명}
+![.](16-interpolationSearch.jpg)
 # 16-interpolationSearch {Result Image}
 ![.](16-interpolationSearch1st.jpg)
 ![.](16-interpolationSearch2nd.jpg)
